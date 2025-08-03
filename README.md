@@ -1,1 +1,0 @@
-# whatsapp-drive-assistant-node
